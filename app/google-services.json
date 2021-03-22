@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290785088736",
+    "firebase_url": "https://rentafriendauthentication.firebaseio.com",
+    "project_id": "rentafriendauthentication",
+    "storage_bucket": "rentafriendauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290785088736:android:2000e9925ec76405",
+        "android_client_info": {
+          "package_name": "com.example.kate.rentafriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290785088736-gb2gsgmcsjdm2f9cc2k4o5hts2io5kfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kate.rentafriend",
+            "certificate_hash": "0c8ba8563c998177bfb5a82e718921c67d8b58fa"
+          }
+        },
+        {
+          "client_id": "290785088736-iu53ktg1b5uih06vsvlnhkjeqo8nqvj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADf7g4IR4ph2oWpr8hEWvdAhdSBewCWic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290785088736-iu53ktg1b5uih06vsvlnhkjeqo8nqvj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
